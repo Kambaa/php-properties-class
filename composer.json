@@ -1,0 +1,12 @@
+{
+  "name": "kambaa/properties",
+  "description": "A java style properties configuration file reader/writer",
+  "minimum-stability": "dev",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ]
+}
